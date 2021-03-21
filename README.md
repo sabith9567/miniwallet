@@ -13,8 +13,9 @@ activate and install requirements.txt
 
     pip install -r requirement.txt
 
-run 
-     python manage.py migrate
+also run
+
+    python manage.py migrate
 
 load dump form dbfinal.json / create super user and add one/two users and note down the id from backend
      
